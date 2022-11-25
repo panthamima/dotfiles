@@ -35,7 +35,7 @@ bar {
     statusline #DBDBDB
     separator  #666666
 
-    focused_workspace   #1C1C1C #DBDBDB #1C1C1C
+    focused_workspace  #DBDBDB #DBDBDB #1C1C1C
     active_workspace   #1C1C1C #DBDBDB #1C1C1C
     inactive_workspace #333333 #1C1C1C #888888
     urgent_workspace   #2F343A #1C1C1C #DBDBDB
