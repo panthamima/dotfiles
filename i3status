@@ -17,7 +17,8 @@ path_exists VPN {
         path = "/proc/sys/net/ipv4/conf/ppp0"
 }
 
-ethernet _first_ {
+#wireless _first_ { #notebook
+ethernet _first_ { # pc
         format_up = "ETH %ip"
         format_down = "ETH down"
 }
